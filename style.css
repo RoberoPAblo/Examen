@@ -1,0 +1,16 @@
+.imgheader{
+    background-image: url("./Img/nature-gca94335dc_1280.jpg");
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+.examen{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+.gray{
+    width: 100%;
+    height: 390px;
+    background-color: gray;
+}
